@@ -8,7 +8,7 @@ Working with files
 ------
 
 - Menu for working with files
-A list of file processing functions is presented in this menu.
+A list of file processing functions is presented in this menu. 
 ![alt text](https://github.com/JulianNSH/MotorcycleRacingClub/blob/master/screens/screen2.png?raw=true "Files")
 
 - File creation
@@ -39,7 +39,7 @@ The selective display contains a small menu from which the user can choose the n
 
 - Sorting
  Arranges (according to the Shell algorithm) the data in ascending order according to the number of finishes to highlight the order in which the participants finished.
-![alt text](https://github.com/JulianNSH/MotorcycleRacingClub/blob/master/screens/screen9.png?raw=true "Sort")
+ ![alt text](https://github.com/JulianNSH/MotorcycleRacingClub/blob/master/screens/screen9.png?raw=true "Sort")
 
 Working with linked lists
 ------
